@@ -65,7 +65,9 @@ SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 # 4. Agile Board (애자일 보드)
-
+[Frontend](https://www.notion.so/eddi-robot-academy/DoC-Vue-DoCV-878338995f3344f3957e019c80285465)  
+[Backend](https://www.notion.so/eddi-robot-academy/DoC-Django-DoCD-8b672def70aa4dd6a56a2cd33a7042f2)  
+[FastAPI](https://www.notion.so/eddi-robot-academy/DoC-FastAPI-DoCF-d7089397825a45f5a6f2917e2610a9df)  
 # 5. Commit History (커밋 이력)
 
 # 6. 발생한 이슈 내역  
