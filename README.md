@@ -13,11 +13,15 @@ OO과정 n차 프로젝트
 ```
 
 # 1. 팀 소개
-- 팀명
-- 멤버 개인 깃허브 계정과 연동
+- ### 나는 춘식이
+| 김용현 | 송준호 | 이용휘 | 이용우 | 최민지 |
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| <img width="120px" src="https://github.com/Minn-ji/SCOP/assets/133327408/dc9fafb0-46df-4a04-8984-b7c28495d307" /> | <img width="120px" src="https://github.com/Minn-ji/SCOP/assets/133327408/e19d93d3-184c-41de-82dd-d1ef36e3ba8a" /> | <img width="120px" src="https://github.com/Minn-ji/SCOP/assets/133327408/625ce939-42da-4f5a-b8b6-635a190ac4f2" /> | <img width="120px" src="https://github.com/Minn-ji/SCOP/assets/133327408/dc66979f-b527-426f-98c3-12e1eafd1d45" /> | <img width="120px" src="https://github.com/Minn-ji/SCOP/assets/133327408/deeee747-ac7a-41a1-a14e-1a7d5b9a5b02" /> 
+| [@younghyen7956](https://github.com/younghyen7956) | [@Ah-ram](https://github.com/Ah-ram) | [@Minn-ji](https://github.com/Minn-ji) | [@Jh-jaehyuk](https://github.com/Jh-jaehyuk) |[@Jh-jaehyuk](https://github.com/Jh-jaehyuk) |
+| 전북대학교</br>통계학과 | 서경대학교</br>나노융합공학과 | 국민대학교</br>AI빅데이터융합경영학과 | 서울과학기술대학교</br>기계시스템디자인공학과  | 서울과학기술대학교</br>기계시스템디자인공학과  |
 
 # 2. 프로젝트 개요
-- 프로젝트 명
+- 나는 춘식이
 - 프로젝트 소개
 - 프로젝트 필요성(배경)
 - 프로젝트 목표
