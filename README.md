@@ -44,6 +44,12 @@ SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 ![axios](https://img.shields.io/badge/axios-5A5A5A?style=for-the-badge&logo=axios&logoColor=white)
 ![Graphviz](https://img.shields.io/badge/graphviz-2E8B57?style=for-the-badge&logo=graphviz&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Notion](https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 
 # 4. Agile Board (애자일 보드)
