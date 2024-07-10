@@ -1,7 +1,7 @@
 # SKN01-2nd-2Team
-Vue + Django + FastAPI 기반 가입 고객 이탈 예측 및 구매 동향 예측  
+Vue + Django + FastAPI 기반 이모티콘 구매 사이트 가입 고객 이탈 예측 및 구매 동향 예측
 
-OO과정 n차 프로젝트
+SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 
 ## WBS를 Agile Board(애자일 보드) 로 변경
 
@@ -18,7 +18,7 @@ OO과정 n차 프로젝트
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | <img width="120px" src="https://github.com/Jh-jaehyuk/Jh-jaehyuk.github.io/assets/126551524/33ea2a85-1853-484b-b2a4-c750f854a26b" /> | <img width="120px" src="https://github.com/younghyen7956/study/issues/1#issue-2400223914" /> | <img width="120px" src="https://github.com/younghyen7956/study/blob/d27bc2d82bbe69fc1aa46188ea11026b0cd8a934/image/lwy.png" /> |  <img width="120px" src="https://github.com/younghyen7956/study/blob/d27bc2d82bbe69fc1aa46188ea11026b0cd8a934/image/y0ng.png" /> | <img width="120px" src="https://github.com/younghyen7956/study/blob/d27bc2d82bbe69fc1aa46188ea11026b0cd8a934/image/minji.jpg" /> |
 | [@younghyen7956](https://github.com/younghyen7956) | [@6-6ho](https://github.com/6-6ho) | [@lyw00](https://github.com/lyw00) | [@y0ng98](https://github.com/y0ng98) | [@Minn-ji](https://github.com/Minn-ji) |
-| 전북대학교</br>통계학과 | 서경대학교</br>나노융합공학과 | 국민대학교</br>AI빅데이터융합경영학과 | 서울과학기술대학교</br>기계시스템디자인공학과  | 서울과학기술대학교</br>기계시스템디자인공학과  |
+| Backend & Frontend & FastAPI | Backend & Frontend  | Frontend | Backend & Frontend | Backend & Frontend & FastAPI|
 
 # 2. 프로젝트 개요
 - ### 나는 춘식이
