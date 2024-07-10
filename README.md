@@ -23,7 +23,11 @@ SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 |:----------:|:----------:|:----------:|:----------:|:----------:|
 | <img width="120px" src="https://github.com/Jh-jaehyuk/Jh-jaehyuk.github.io/assets/126551524/33ea2a85-1853-484b-b2a4-c750f854a26b" /> | <img width="120px" src="https://github.com/younghyen7956/study/blob/581aac7727e9f1c5c867a1232c9309b49372a2e4/image/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpg" /> | <img width="120px" src="https://github.com/younghyen7956/study/blob/d27bc2d82bbe69fc1aa46188ea11026b0cd8a934/image/lwy.png" /> |  <img width="120px" src="https://github.com/younghyen7956/study/blob/d27bc2d82bbe69fc1aa46188ea11026b0cd8a934/image/y0ng.png" /> | <img width="120px" src="https://github.com/younghyen7956/study/blob/d27bc2d82bbe69fc1aa46188ea11026b0cd8a934/image/minji.jpg" /> |
 | [@younghyen7956](https://github.com/younghyen7956) | [@6-6ho](https://github.com/6-6ho) | [@lyw00](https://github.com/lyw00) | [@y0ng98](https://github.com/y0ng98) | [@Minn-ji](https://github.com/Minn-ji) |
-| Backend & Frontend & FastAPI | Backend & Frontend  | Frontend | Backe는 사용자들이 다양한 이모티콘을 구매하고, 리뷰를 작성하며, 자신만의 게시글을 작성할 수 있는 플랫폼입니다. 이 프로젝트는 사용자들이 감정을 나타내는 다양한 이모티콘을 편리하게 찾고 구매할 수 있도록 돕습니다.
+| Backend & Frontend & FastAPI | Backend & Frontend | Frontend | Frontend & Backend | Backend & Frontend & FastAPI |
+
+
+## 프로젝트 소개
+나는 춘식이는 사용자들이 다양한 이모티콘을 구매하고, 리뷰를 작성하며, 자신만의 게시글을 작성할 수 있는 플랫폼입니다. 이 프로젝트는 사용자들이 감정을 나타내는 다양한 이모티콘을 편리하게 찾고 구매할 수 있도록 돕습니다.
 
 ## 프로젝트 배경
 현대 사회에서는 디지털 커뮤니케이션이 더욱 중요해지고 있습니다. 특히 이모티콘은 텍스트를 넘어서 감정과 의도를 보다 명확하게 전달하는 역할을 합니다. 하지만 다양한 이모티콘을 찾기 위해서는 여러 플랫폼을 돌아다니거나 시간을 소모해야 하는 문제가 있습니다. 이에 따라 춘식이모티콘은 사용자들이 편리하게 원하는 이모티콘을 찾고 구매할 수 있는 공간을 제공합니다.
