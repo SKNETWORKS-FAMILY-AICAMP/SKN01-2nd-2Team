@@ -13,8 +13,12 @@ OO과정 n차 프로젝트
 ```
 
 # 1. 팀 소개
-- 나는 춘식이
-- 멤버 개인 깃허브 계정과 연동
+- ### 나는 춘식이
+| 김용현 | 송준호 | 이용우 | 이용휘 | 최민지|
+|:----------:|:----------:|:----------:|:----------:|:----------:|
+| <img width="120px" src="https://github.com/Jh-jaehyuk/Jh-jaehyuk.github.io/assets/126551524/33ea2a85-1853-484b-b2a4-c750f854a26b" /> | <img width="120px" src="https://github.com/younghyen7956/study/issues/1#issue-2400223914" /> | <img width="120px" src="https://github.com/younghyen7956/study/blob/d27bc2d82bbe69fc1aa46188ea11026b0cd8a934/image/lwy.png" /> |  <img width="120px" src="https://github.com/younghyen7956/study/blob/d27bc2d82bbe69fc1aa46188ea11026b0cd8a934/image/y0ng.png" /> | <img width="120px" src="https://github.com/younghyen7956/study/blob/d27bc2d82bbe69fc1aa46188ea11026b0cd8a934/image/minji.jpg" /> |
+| [@younghyen7956](https://github.com/younghyen7956) | [@Ah-ram](https://github.com/Ah-ram) | [@Minn-ji](https://github.com/Minn-ji) | [@Jh-jaehyuk](https://github.com/Jh-jaehyuk) | [@Jh-jaehyuk](https://github.com/Jh-jaehyuk) |
+| 전북대학교</br>통계학과 | 서경대학교</br>나노융합공학과 | 국민대학교</br>AI빅데이터융합경영학과 | 서울과학기술대학교</br>기계시스템디자인공학과  | 서울과학기술대학교</br>기계시스템디자인공학과  |
 
 # 2. 프로젝트 개요
 - 프로젝트 명
