@@ -21,13 +21,30 @@ OO과정 n차 프로젝트
 | 전북대학교</br>통계학과 | 서경대학교</br>나노융합공학과 | 국민대학교</br>AI빅데이터융합경영학과 | 서울과학기술대학교</br>기계시스템디자인공학과  | 서울과학기술대학교</br>기계시스템디자인공학과  |
 
 # 2. 프로젝트 개요
-- 프로젝트 명
-- 프로젝트 소개
+- ### 나는 춘식이
+- 
 - 프로젝트 필요성(배경)
 - 프로젝트 목표
 
 # 3. 기술 스택
-- Python, Django, SQLAlchemy, FastAPI, MYSQL, Docker, Redis, HTML5/CSS3, JavaScript, Vue3, Vuetify3, TensorFlow, Keras, axios, Graphviz, 
+![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/sqlalchemy-red?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![axios](https://img.shields.io/badge/axios-5A5A5A?style=for-the-badge&logo=axios&logoColor=white)
+![Graphviz](https://img.shields.io/badge/graphviz-2E8B57?style=for-the-badge&logo=graphviz&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+
 
 # 4. Agile Board (애자일 보드)
 
