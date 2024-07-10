@@ -21,7 +21,7 @@ SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 | Backend & Frontend & FastAPI | Backend & Frontend  | Frontend | Backend & Frontend | Backend & Frontend & FastAPI|
 
 # 2. 프로젝트 개요
-- ### 나는 춘식이
+- 나는 춘식이
 - 
 - 프로젝트 필요성(배경)
 - 프로젝트 목표
