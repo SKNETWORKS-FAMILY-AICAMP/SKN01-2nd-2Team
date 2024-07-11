@@ -139,6 +139,9 @@ SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 - **Authentication**
 
 # 9. 수행결과(테스트/시연 페이지)
+<div align="center">
+<img width="1200" alt="image" src="https://github.com/younghyen7956/study/assets/155882166/6d057837-fe0f-42a7-8132-e369c3b0b68f">
+</div>
 
 # 10. 한 줄 회고
 -용현 : 이번 프로젝트 팀장을 맡아서 해보니 부담감이 많았지만 팀원 분들이 잘 따라주고 잘해주셨다. 팀원 분들 감사합니다. 
