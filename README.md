@@ -38,7 +38,6 @@ SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 - **편리한 구매 경험**: 사용자들이 쉽고 빠르게 원하는 이모티콘을 검색하고 구매할 수 있도록 직관적이고 효율적인 사용자 경험을 제공합니다.
 - **정보 보안**: 사용자 정보와 결제 정보를 안전하게 관리하여 신뢰성 있는 서비스를 제공합니다.
 
-
 # 3. 기술 스택
 ### Machine Learing
 ![TensorFlow](https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
