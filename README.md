@@ -21,7 +21,7 @@ SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 
 | 김용현 | 송준호 | 이용우 | 이용휘 | 최민지|
 |:----------:|:----------:|:----------:|:----------:|:----------:|
-| <img width="120px" src="https://github.com/Jh-jaehyuk/Jh-jaehyuk.github.io/assets/126551524/33ea2a85-1853-484b-b2a4-c750f854a26b" /> | <img width="120px" src="https://github.com/younghyen7956/study/blob/581aac7727e9f1c5c867a1232c9309b49372a2e4/image/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jpg" /> | <img width="120px" src="https://github.com/younghyen7956/study/blob/d27bc2d82bbe69fc1aa46188ea11026b0cd8a934/image/lwy.png" /> |  <img width="120px" src="https://github.com/younghyen7956/study/blob/d27bc2d82bbe69fc1aa46188ea11026b0cd8a934/image/y0ng.png" /> | <img width="120px" src="https://github.com/younghyen7956/study/blob/d27bc2d82bbe69fc1aa46188ea11026b0cd8a934/image/minji.jpg" /> |
+| <img width="120px" src="https://github.com/Jh-jaehyuk/Jh-jaehyuk.github.io/assets/126551524/33ea2a85-1853-484b-b2a4-c750f854a26b" /> | <img width="120px" src="https://github.com/younghyen7956/study/issues/1#issue-2400223914" /> | <img width="120px" src="https://github.com/younghyen7956/study/issues/3#issue-2402580536" /> |  <img width="120px" src="https://github.com/younghyen7956/study/issues/4#issue-2402582028" /> | <img width="120px" src="https://github.com/younghyen7956/study/issues/5#issue-2402583992" /> |
 | [@younghyen7956](https://github.com/younghyen7956) | [@6-6ho](https://github.com/6-6ho) | [@lyw00](https://github.com/lyw00) | [@y0ng98](https://github.com/y0ng98) | [@Minn-ji](https://github.com/Minn-ji) |
 | Backend & Frontend & FastAPI | Backend & Frontend | Frontend | Frontend & Backend | Backend & Frontend & FastAPI |
 
