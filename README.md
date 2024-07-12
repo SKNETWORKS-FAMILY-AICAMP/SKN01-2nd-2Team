@@ -4,6 +4,13 @@ Vue + Django + FastAPI 기반 이모티콘 구매 사이트 가입 고객 이탈
 
 SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 
+- 구매 동향 분석
+- 가설 - 나이와 성별에 따라 선호 카테고리에 영향을 미칠까?
+- 가설 확인 -> lgbm 모델을 사용하여 분류 모델을 사용
+- 
+   
+
+
 ## WBS를 Agile Board(애자일 보드) 로 변경
 
 ```c
@@ -25,14 +32,15 @@ SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 | [@younghyen7956](https://github.com/younghyen7956) | [@6-6ho](https://github.com/6-6ho) | [@lyw00](https://github.com/lyw00) | [@y0ng98](https://github.com/y0ng98) | [@Minn-ji](https://github.com/Minn-ji) |
 | Backend & Frontend & FastAPI | Backend & Frontend | Frontend | Frontend & Backend | Backend & Frontend & FastAPI |
 
+2. 프로젝트
 
-## 프로젝트 소개
+## 소개
 나는 춘식이는 사용자들이 다양한 이모티콘을 구매하고, 리뷰를 작성하며, 자신만의 게시글을 작성할 수 있는 플랫폼입니다. 이 프로젝트는 사용자들이 감정을 나타내는 다양한 이모티콘을 편리하게 찾고 구매할 수 있도록 돕습니다.
 
-## 프로젝트 배경
+## 배경
 현대 사회에서는 디지털 커뮤니케이션이 더욱 중요해지고 있습니다. 특히 이모티콘은 텍스트를 넘어서 감정과 의도를 보다 명확하게 전달하는 역할을 합니다. 하지만 다양한 이모티콘을 찾기 위해서는 여러 플랫폼을 돌아다니거나 시간을 소모해야 하는 문제가 있습니다. 이에 따라 춘식이모티콘은 사용자들이 편리하게 원하는 이모티콘을 찾고 구매할 수 있는 공간을 제공합니다.
 
-## 프로젝트 목표
+## 목표
 - **다양한 이모티콘 제공**: 사용자들이 다양한 감정과 상황에 맞는 이모티콘을 찾을 수 있도록 다양한 제품을 제공합니다.
 - **사용자 리뷰와 게시글 플랫폼**: 사용자들이 구매한 이모티콘에 대한 리뷰를 작성하고, 자신만의 게시글을 작성할 수 있는 공간을 제공하여 커뮤니티를 활성화합니다.
 - **편리한 구매 경험**: 사용자들이 쉽고 빠르게 원하는 이모티콘을 검색하고 구매할 수 있도록 직관적이고 효율적인 사용자 경험을 제공합니다.
@@ -76,7 +84,42 @@ SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 ## Code Processing
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-# 4. Agile Board (애자일 보드)
+
+## 4. 분석
+### [구매 동향 분석]
+**01. 가설**
+- 나이와 성별에 따라 선호 카테고리에 영향을 미칠까?
+
+**2. 검정**
+* 서비스 연결이 진행되지 않아 구매 데이터를 직접 생성하였기 때문에 의미있는 데이터 분석은 아니지만, 이후 서비스를 구현하고 실제 데이터가 있을 때의 분석 기법을 구현했습니다.
+
+- 데이터 분포
+<div>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a7f1927f-8e7f-455d-9f6c-125c409cff80">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/0a9de183-86c2-4221-ada7-04e166824f12">
+</div>
+
+- 분석 그래프
+  
+<div>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/eaa939b3-f38c-4bdb-8ed3-413930a93574">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/56799dec-f85d-4ab2-9035-974f85cf1bf9">
+</div>
+
+* 모델의 성능 또한 실제 데이터가 아니므로 낮은 성능을 보였습니다. 실제 서비스 연결이 완료되면 의미있는 데이터 학습이 가능하므로, 보다 좋은 성능의 모델을 사용할 수 있을 것으로 예상합니다.
+- confusion_matrix 
+<div>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/282df594-23af-48cd-b536-7f8141fff798">
+</div>
+
+- classification_report
+  
+<div>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/533c7aa5-316c-4bec-a6f5-fcc79b2f10e6">
+</div>
+
+
+# 5. Agile Board (애자일 보드)
 # **Frontend**
 [Frontend](https://www.notion.so/eddi-robot-academy/DoC-Vue-DoCV-878338995f3344f3957e019c80285465)  
 # **Backend**
