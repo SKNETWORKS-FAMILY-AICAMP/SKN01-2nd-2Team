@@ -86,14 +86,38 @@ SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 
 
 ## 4. 분석
-- 구매 동향 분석
-- 가설 - 나이와 성별에 따라 선호 카테고리에 영향을 미칠까?
-<div align="center">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/eaa939b3-f38c-4bdb-8ed3-413930a93574">
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/56799dec-f85d-4ab2-9035-974f85cf1bf9">  
+### [구매 동향 분석]
+**01. 가설**
+- 나이와 성별에 따라 선호 카테고리에 영향을 미칠까?
+
+**2. 검정**
+* 서비스 연결이 진행되지 않아 구매 데이터를 직접 생성하였기 때문에 의미있는 데이터 분석은 아니지만, 이후 서비스를 구현하고 실제 데이터가 있을 때의 분석 기법을 구현했습니다.
+
+- 데이터 분포
+<div>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a7f1927f-8e7f-455d-9f6c-125c409cff80">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/0a9de183-86c2-4221-ada7-04e166824f12">
 </div>
-- 가설 검정 -> 
-- 
+
+- 분석 그래프
+  
+<div>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/eaa939b3-f38c-4bdb-8ed3-413930a93574">
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/56799dec-f85d-4ab2-9035-974f85cf1bf9">
+</div>
+
+* 모델의 성능 또한 실제 데이터가 아니므로 낮은 성능을 보였습니다. 실제 서비스 연결이 완료되면 의미있는 데이터 학습이 가능하므로, 보다 좋은 성능의 모델을 사용할 수 있을 것으로 예상합니다.
+- confusion_matrix 
+<div>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/282df594-23af-48cd-b536-7f8141fff798">
+</div>
+
+- classification_report
+  
+<div>
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/533c7aa5-316c-4bec-a6f5-fcc79b2f10e6">
+</div>
+
 
 # 5. Agile Board (애자일 보드)
 # **Frontend**
