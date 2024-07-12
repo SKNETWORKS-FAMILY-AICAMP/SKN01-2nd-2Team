@@ -4,6 +4,13 @@ Vue + Django + FastAPI 기반 이모티콘 구매 사이트 가입 고객 이탈
 
 SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 
+- 구매 동향 분석
+- 가설 - 나이와 성별에 따라 선호 카테고리에 영향을 미칠까?
+- 가설 확인 -> lgbm 모델을 사용하여 분류 모델을 사용
+- 
+   
+
+
 ## WBS를 Agile Board(애자일 보드) 로 변경
 
 ```c
@@ -25,14 +32,15 @@ SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 | [@younghyen7956](https://github.com/younghyen7956) | [@6-6ho](https://github.com/6-6ho) | [@lyw00](https://github.com/lyw00) | [@y0ng98](https://github.com/y0ng98) | [@Minn-ji](https://github.com/Minn-ji) |
 | Backend & Frontend & FastAPI | Backend & Frontend | Frontend | Frontend & Backend | Backend & Frontend & FastAPI |
 
+2. 프로젝트
 
-## 프로젝트 소개
+## 소개
 나는 춘식이는 사용자들이 다양한 이모티콘을 구매하고, 리뷰를 작성하며, 자신만의 게시글을 작성할 수 있는 플랫폼입니다. 이 프로젝트는 사용자들이 감정을 나타내는 다양한 이모티콘을 편리하게 찾고 구매할 수 있도록 돕습니다.
 
-## 프로젝트 배경
+## 배경
 현대 사회에서는 디지털 커뮤니케이션이 더욱 중요해지고 있습니다. 특히 이모티콘은 텍스트를 넘어서 감정과 의도를 보다 명확하게 전달하는 역할을 합니다. 하지만 다양한 이모티콘을 찾기 위해서는 여러 플랫폼을 돌아다니거나 시간을 소모해야 하는 문제가 있습니다. 이에 따라 춘식이모티콘은 사용자들이 편리하게 원하는 이모티콘을 찾고 구매할 수 있는 공간을 제공합니다.
 
-## 프로젝트 목표
+## 목표
 - **다양한 이모티콘 제공**: 사용자들이 다양한 감정과 상황에 맞는 이모티콘을 찾을 수 있도록 다양한 제품을 제공합니다.
 - **사용자 리뷰와 게시글 플랫폼**: 사용자들이 구매한 이모티콘에 대한 리뷰를 작성하고, 자신만의 게시글을 작성할 수 있는 공간을 제공하여 커뮤니티를 활성화합니다.
 - **편리한 구매 경험**: 사용자들이 쉽고 빠르게 원하는 이모티콘을 검색하고 구매할 수 있도록 직관적이고 효율적인 사용자 경험을 제공합니다.
@@ -76,7 +84,18 @@ SK-NETWORK-FAMILY-AI 1기 2차 프로젝트
 ## Code Processing
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
-# 4. Agile Board (애자일 보드)
+
+## 4. 분석
+- 구매 동향 분석
+- 가설 - 나이와 성별에 따라 선호 카테고리에 영향을 미칠까?
+<div align="center">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/eaa939b3-f38c-4bdb-8ed3-413930a93574">
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/56799dec-f85d-4ab2-9035-974f85cf1bf9">  
+</div>
+- 가설 검정 -> 
+- 
+
+# 5. Agile Board (애자일 보드)
 # **Frontend**
 [Frontend](https://www.notion.so/eddi-robot-academy/DoC-Vue-DoCV-878338995f3344f3957e019c80285465)  
 # **Backend**
